@@ -1,0 +1,10 @@
+{
+  "domain": "catalog",
+  "resources": [
+    {
+      "resource": "products",
+      "format": "legacy",
+      "fields": ["*"]
+    }
+  ]
+}
